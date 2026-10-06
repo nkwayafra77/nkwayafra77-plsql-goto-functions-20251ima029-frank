@@ -53,7 +53,7 @@ plsql-goto-functions-20251ima029-frank/
 4. Run the test files in `03_tests/`.
 5. Compare the results with the screenshots in `screenshots/`.
 
-## Design choices and assumptions
+
 - **A2 salary bands (monthly, RWF):** below 300,000 = LOW, 300,000 to 799,999 = MEDIUM, 800,000 and above = HIGH, NULL = missing.
 - **B3 tax bands (applied to monthly income, result annualised):** up to 60,000 = 0%; 60,001 to 100,000 = 20% of the part above 60,000; above 100,000 = 8,000 plus 30% of the part above 100,000.
 - **B2** returns completed years and raises an error for a future hire date.
