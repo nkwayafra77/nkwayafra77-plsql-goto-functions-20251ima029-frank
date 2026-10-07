@@ -1,0 +1,7 @@
+*.log
+*.lst
+*.tmp
+
+.DS_Store
+
+Thumbs.db
